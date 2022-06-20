@@ -1,4 +1,5 @@
 ### Hi there 👋
+<a href="https://app.daily.dev/duytung"><img src="https://api.daily.dev/devcards/0137913712cf4a88904860d11170f5f7.png?r=4df" width="400" alt="Duy Tùng's Dev Card"/></a>
 
 <!--
 **DuytungDeveloper/duytungdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
