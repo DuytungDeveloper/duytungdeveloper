@@ -10,6 +10,7 @@ I'm Tùng Đào, a senior full-stack developer from VietNam, based in Ho Chi Min
 
 ## 🔧 Tools
 
+<p align="left">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" alt="GIT" width="55" height="55"/>
 <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
@@ -25,14 +26,11 @@ I'm Tùng Đào, a senior full-stack developer from VietNam, based in Ho Chi Min
 <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
 <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
+</p>
 
-          
-          
-          
-          
-      
 ## 💻 Technologies
 
+<p align="left">
 <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
 <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" style="background-color : white;" />
@@ -49,30 +47,22 @@ I'm Tùng Đào, a senior full-stack developer from VietNam, based in Ho Chi Min
 <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
 <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
 <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" />
+</p>
 
-          
-          
-          
-          
-          
-          
 ## 🎮 Frameworks
 
+<p align="left">
 <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
 <img height="55" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21~bgwhite.svg" />
 <img height="55" src="https://vectorwiki.com/images/F79rZ__react-native.svg" />
 <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" />
 <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
-
-          
-          
-          
-          
-
+</p>
 
 ## 📝 Language
 
+<p align="left">
 <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="bash" />
 <img width="55" height="55" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="bash" />
 <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
@@ -80,21 +70,17 @@ I'm Tùng Đào, a senior full-stack developer from VietNam, based in Ho Chi Min
 <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
+</p>
 
-          
-          
-          
 ## 📟 OS
 
+<p align="left">
 <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
 <img width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <img width="55" height="55" src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" />
-
-
-
+</p>
 
 ## 📜 Some archived
-
 
 <a href="https://app.daily.dev/duytung"><img src="https://api.daily.dev/devcards/0137913712cf4a88904860d11170f5f7.png?r=4df" width="400" alt="Duy Tùng's Dev Card"/></a>
 
